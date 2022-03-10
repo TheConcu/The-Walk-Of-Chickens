@@ -5,6 +5,8 @@ With the thought of food on the mind. I came across an article to make a dish wi
 
 Using the game engine site, Bitsy, I made a top-down experience of the journey with researching sources to guide the narrative. The perspective you are playing through is the chicken going through the process of which it takes from birth all the way to a dish at someone's house that they are going to eat.
 
+Story and art in bitsy made by me, Christopher Womack
+
 ## You can find and download the game to play in [releases](https://github.com/TheConcu/The-Walk-Of-Chickens/releases/tag/v1.0.0).
 
 To play: download the .html file then open the file in a web browser.
