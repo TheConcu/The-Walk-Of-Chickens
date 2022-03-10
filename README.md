@@ -9,4 +9,4 @@ Using the game engine site, Bitsy, I made a top-down experience of the journey w
 
 To play: download the .html file then open the file in a web browser.
 
-Site used: https://make.bitsy.org/
+Site used: https://bitsy.org/
